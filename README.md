@@ -15,4 +15,4 @@
 
 #### notes :clipboard::paperclip:
 
-Pastikan telah melakukan register dan join kelas pada [Autograde System](https://autograde-dashboard.vercel.app/
+Pastikan telah melakukan register dan join kelas pada [Autograde System](https://autograde-dashboard.vercel.app/)
